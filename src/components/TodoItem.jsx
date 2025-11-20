@@ -8,7 +8,7 @@ function TodoItem({ todoname, tododate }) {
         <div class="col-4">{tododate}</div>
         <div class="col-3">
           <button type="button" class="btn btn-danger">
-            Danger
+            Delete
           </button>
         </div>
       </div>
